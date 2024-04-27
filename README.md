@@ -15,7 +15,11 @@ https://www.uv.mx/rrojano/arquitectura_dos/pcasm-book-spanish.pdf
 https://www.uv.mx/rrojano/arquitectura_dos/pcasm-book-spanish.pdf
 
 
+3 - BIBLIOTECA DE PROBLEMAS
+DE PROGRAMACIÓN EN
+ENSAMBLADOR. Francisco Charte Ojeda, Escuela Politécnica Superior, Universidad de Jaén. España.
 
+https://fcharte.com/assets/pdfs/PFC-ITIG-CharteFco.pdf
 
 ##### Mix Assembler with C Programming Language 
 
