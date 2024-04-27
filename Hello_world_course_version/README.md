@@ -7,7 +7,7 @@ ompilling with NASM assembler (The Netwide Assembler);
 Manualy:
 
 Compile:
-    nasm -f elf64 hello_world_course_version.asm -o hello.o
+    nasm -f elf64 hello.asm -o hello.o
 Link:
     ld hello.o -o hello
 Run:
@@ -15,7 +15,7 @@ Run:
 
 With one command:
 
-    nasm -f elf64 hello_world_course_version.asm -o hello.o && ld hello.o -o hello && ./hello
+    nasm -f elf64 hello.asm -o hello.o && ld hello.o -o hello && ./hello
 
 With Make tool:
 
