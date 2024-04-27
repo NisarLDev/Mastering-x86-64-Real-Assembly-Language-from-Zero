@@ -5,6 +5,18 @@
 
 #### Assembler
 
+1 - Programación segura en lenguaje ensamblador en el modo protegido para la memoria, con instrucciones para la arquitectura de procesador con modelo 80386.
+
+https://www.uv.mx/rrojano/arquitectura_dos/pcasm-book-spanish.pdf
+
+
+2 - Programming in Assembler Language on protected Memory Mode for the Arquitecture Processor 80386. Text in Spanish Language.
+
+https://www.uv.mx/rrojano/arquitectura_dos/pcasm-book-spanish.pdf
+
+
+
+
 ##### Mix Assembler with C Programming Language 
 
 1 - How to Mix C and Assembly. Dev Dungeon.
