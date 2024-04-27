@@ -21,4 +21,4 @@ start:    mov       rax, 0x02000004         ; system call for write
 message:  db        "Hello, World", 10      ; note the newline at the end
 
 ; Source https://cs.lmu.edu/~ray/notes/nasmtutorial/
-; NASM Tutorial. Loyola Marimount University. Ray Toal.
+; NASM Tutorial. Ray Toal. Computer Science Department, College of Science and Engineering of the Loyola Marymount University. Los Ángeles, EEUU.
