@@ -3,6 +3,15 @@
 
 ### Bibliography
 
+#### Assembler
+
+##### Mix Assembler with C Programming Language 
+
+1 - How to Mix C and Assembly
+
+https://www.devdungeon.com/content/how-mix-c-and-assembly
+
+
 #### NASM Assembler
 
 1 - NASM Tutorial. Loyola Marimount University.
