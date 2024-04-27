@@ -13,6 +13,10 @@ Link:
 Run:
     ./hello
 
+With one command:
+
+    nasm -f elf64 hello_world_course_version.asm -o hello.o && ld hello.o -o hello && ./hello
+
 With Make tool:
 
 In the folder Hello_world_course_version
