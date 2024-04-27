@@ -21,7 +21,10 @@ ENSAMBLADOR. Francisco Charte Ojeda, Escuela Politécnica Superior, Universidad 
 
 https://fcharte.com/assets/pdfs/PFC-ITIG-CharteFco.pdf
 
+4 - Programación Avanzada
+en Lenguaje Ensamblador. Ramón Medina.
 
+https://elhacker.info/manuales/Lenguajes%20de%20Programacion/Ensamblador/asm%20avanzado.PDF
 
 ##### Mix Assembler with C Programming Language 
 
