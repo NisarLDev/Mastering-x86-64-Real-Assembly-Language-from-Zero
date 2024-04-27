@@ -35,7 +35,7 @@ https://www.devdungeon.com/content/how-mix-c-and-assembly
 
 #### NASM Assembler
 
-1 - NASM Tutorial. Loyola Marimount University.
+1 - NASM Tutorial. Loyola Marimount University. Ray Toal.
 
 https://cs.lmu.edu/~ray/notes/nasmtutorial/
 
