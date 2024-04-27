@@ -28,6 +28,6 @@ In the folder Hello_world_course_version
 
     Command: make
 
-    Run the programme:
+Run the programme:
 
         ./hello
