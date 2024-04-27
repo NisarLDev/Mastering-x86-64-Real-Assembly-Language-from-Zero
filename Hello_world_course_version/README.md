@@ -7,10 +7,15 @@ ompilling with NASM assembler (The Netwide Assembler);
 Manualy:
 
 Compile:
+
     nasm -f elf64 hello.asm -o hello.o
+    
 Link:
+
     ld hello.o -o hello
+    
 Run:
+
     ./hello
 
 With one command:
