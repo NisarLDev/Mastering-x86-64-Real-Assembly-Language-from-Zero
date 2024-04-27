@@ -5,7 +5,7 @@
 
 #### Assembler
 
-1 - Programación segura en lenguaje ensamblador en el modo protegido para la memoria, con instrucciones para la arquitectura de procesador con modelo 80386. Año 2006. Fuente Universidad Veracruzana, Méjico.
+1 - Programación segura en el lenguaje ensamblador con el modo protegido para la memoria, con instrucciones para la arquitectura de procesador con modelo 80386. Año 2006. Fuente Universidad Veracruzana, Méjico.
 
 https://www.uv.mx/rrojano/arquitectura_dos/pcasm-book-spanish.pdf
 
