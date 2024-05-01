@@ -28,7 +28,7 @@ en Lenguaje Ensamblador. Ramón Medina.
 
 https://elhacker.info/manuales/Lenguajes%20de%20Programacion/Ensamblador/asm%20avanzado.PDF
 
-##### Mix Assembler with C Programming Language 
+#### Mix Assembler with C Programming Language 
 
 1 - How to Mix C and Assembly. Dev Dungeon.
 
@@ -45,7 +45,7 @@ https://cs.lmu.edu/~ray/notes/nasmtutorial/
 
 https://www.devdungeon.com/content/hello-world-nasm-assembler
 
-##### Compilling error
+#### Compilling error
 
 1 - Violación de segmento (`core' generado)
 
