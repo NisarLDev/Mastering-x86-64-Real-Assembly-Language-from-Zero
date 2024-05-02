@@ -12,7 +12,7 @@
 https://www.uv.mx/rrojano/arquitectura_dos/pcasm-book-spanish.pdf
 
 
-2 - Programming in Assembler Language on protected Memory Mode for the Arquitecture Processor 80386. Text in Spanish Language. Source Universidad Veracruzana, Méjico.
+2 - Programming in Assembler Language on protected Memory Mode for the Arquitecture Processor 80386. Text in Spanish Language. Source: Universidad Veracruzana, Méjico.
 
 https://www.uv.mx/rrojano/arquitectura_dos/pcasm-book-spanish.pdf
 
