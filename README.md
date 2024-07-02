@@ -51,7 +51,7 @@ https://www.devdungeon.com/content/hello-world-nasm-assembler
 
 #### Compilling error
 
-1 - Violación de segmento (`core' generado)
+1 - Violación de segmento (`core' generado).
 
 https://eva.fing.edu.uy/mod/forum/discuss.php?d=154703
 
