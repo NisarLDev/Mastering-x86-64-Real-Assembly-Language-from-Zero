@@ -55,6 +55,6 @@ https://www.devdungeon.com/content/hello-world-nasm-assembler
 
 https://eva.fing.edu.uy/mod/forum/discuss.php?d=154703
 
-2 - ¿Qué significa Violacion de Segmento?
+2 - ¿Qué significa Violación de Segmento?
 
 https://es.stackoverflow.com/questions/383/qu%c3%a9-significa-violacion-de-segmento
