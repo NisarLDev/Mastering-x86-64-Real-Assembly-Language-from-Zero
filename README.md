@@ -28,7 +28,7 @@ en Lenguaje Ensamblador. Ramón Medina.
 
 https://elhacker.info/manuales/Lenguajes%20de%20Programacion/Ensamblador/asm%20avanzado.PDF
 
-5 - El Hacker.Info. Assembler.
+5 - El Hacker.Info. Sección sobre Assembler.
 
 https://elhacker.info/manuales/Lenguajes%20de%20Programacion/Ensamblador/
 
