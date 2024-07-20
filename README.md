@@ -32,6 +32,13 @@ https://elhacker.info/manuales/Lenguajes%20de%20Programacion/Ensamblador/asm%20a
 
 https://elhacker.info/manuales/Lenguajes%20de%20Programacion/Ensamblador/
 
+6 - Módulo número 10. Lenguaje Ensamblador. Organización de Computadoras
+Depto. Cs. e Ing. de la Comp.Depto. Cs. e Ing. de la Comp.
+Universidad Nacional del Sur Universidad Nacional del Sur. Bahía Blanca. Argentina. Año 2019. Autores A. G. Stankevicius años 2011-2015 y Leonardo de Matteis año 2019.
+
+https://cs.uns.edu.ar/~ldm/mypage/data/oc/apuntes/2019-modulo10.pdf
+
+
 #### Mix Assembler with C Programming Language 
 
 1 - How to Mix C and Assembly. Dev Dungeon.
