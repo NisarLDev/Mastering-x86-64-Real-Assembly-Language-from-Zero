@@ -42,7 +42,7 @@ https://cs.uns.edu.ar/~ldm/mypage/data/oc/apuntes/2019-modulo10.pdf
 
 https://www.educaopen.com/digital-lab/blog/software/lenguaje-ensamblador
 
-7 - Lenguaje Ensamblador. Frogames formación.
+8 - Lenguaje Ensamblador. Frogames formación.
 
 https://cursos.frogamesformacion.com/pages/blog/lenguaje-ensamblador-que-es
 
