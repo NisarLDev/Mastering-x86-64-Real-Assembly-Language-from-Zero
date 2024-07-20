@@ -38,6 +38,10 @@ Universidad Nacional del Sur Universidad Nacional del Sur. Bahía Blanca. Argent
 
 https://cs.uns.edu.ar/~ldm/mypage/data/oc/apuntes/2019-modulo10.pdf
 
+7 - ¿Qué es el lenguaje Ensamblador? EducaOpen.
+
+https://www.educaopen.com/digital-lab/blog/software/lenguaje-ensamblador
+
 
 #### Mix Assembler with C Programming Language 
 
