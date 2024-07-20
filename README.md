@@ -46,6 +46,10 @@ https://www.educaopen.com/digital-lab/blog/software/lenguaje-ensamblador
 
 https://cursos.frogamesformacion.com/pages/blog/lenguaje-ensamblador-que-es
 
+9 - Lenguaje Ensamblador. Administracióndesistemas.com.
+
+https://administraciondesistemas.com/lenguaje-ensamblador/
+
 #### Mix Assembler with C Programming Language 
 
 1 - How to Mix C and Assembly. Dev Dungeon.
